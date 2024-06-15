@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eoleakazage.github.io/sitemap
+Sitemap: https://eoleakazage.github.io/app/sitemap
+Sitemap: https://eoleakazage.github.io/assets/sitemap
+Sitemap: https://eoleakazage.github.io/css/sitemap
+Sitemap: https://eoleakazage.github.io/includes/sitemap
+Sitemap: https://eoleakazage.github.io/item/sitemap
+Sitemap: https://eoleakazage.github.io/src/sitemap
